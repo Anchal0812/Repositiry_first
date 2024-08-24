@@ -1,0 +1,6 @@
+heloo world, i am here
+need to practice more for linux command.
+vi command to edit
+touch command to create an empty file
+mkdir to create directory
+
